@@ -33,7 +33,7 @@ app.get('/about',(req,res)=>{
 app.get('/help',(req,res)=>{
     res.render('help',{
         helpText:'help me from any danger',
-        name:'Suvarna'
+        name:'chandu'
     })
 })
 
